@@ -1,3 +1,5 @@
+This repository is deprecated, the new code is here: https://github.com/DamianoP/visualSnow
+
 # VisualSnow developed by [Damiano Perri](https://www.damianoperri.it/), [Osvaldo Gervasi](https://ogervasi.unipg.it/), [Marco Simonetti](https://www.researchgate.net/profile/Marco-Simonetti-6) from the University of Perugia
 
 This application attempts to simulates what people with Visual Snow see.
