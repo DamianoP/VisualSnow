@@ -1,4 +1,4 @@
-This repository is deprecated, the new code is here: https://github.com/DamianoP/visualSnow
+This repository is deprecated, the new code is here: [https://github.com/DamianoP/visualSnow](https://github.com/DamianoP/visualSnow2024)
 
 # VisualSnow developed by [Damiano Perri](https://www.damianoperri.it/), [Osvaldo Gervasi](https://ogervasi.unipg.it/), [Marco Simonetti](https://www.researchgate.net/profile/Marco-Simonetti-6) from the University of Perugia
 
